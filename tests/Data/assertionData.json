@@ -1,0 +1,8 @@
+{
+    "ValidReader": {
+        "validSearchResultPattern": "^Results for \\\"%s\\\" \\(\\d+\\)$"
+    },
+    "InvalidReader": {
+        "regexInvalid": "/^Hmmm, we didn't find anything for “.*”$/"
+    }
+}
